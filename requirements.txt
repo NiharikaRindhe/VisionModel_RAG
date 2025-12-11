@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+qwen-vl-utils
+sentence-transformers
+faiss-cpu
+numpy
+streamlit
+pymupdf
