@@ -41,3 +41,6 @@ Uses `st.cache_resource` to:
 
 ## 📁 Project Structure
 
+To run the code - 
+streamlit run app.py
+
